@@ -10,7 +10,7 @@
   ],
   "success_url": "https://telegram.dog/AnyDLBot",
   "website": "https://github.com/hacke777",
-  "repository": "https://github.com/hacke777/TG-Rename-Bot",
+  "repository": "https://github.com/Skbots/TG-Rename-Bot/edit/master/README.md",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
